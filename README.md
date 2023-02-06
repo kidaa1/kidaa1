@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kidaa1
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...Magicians Nephew
-- 📫 How to reach me ...
+- 📫 How to reach me ...pinklightsaber2012@outlook.com
 
 <!---
 kidaa1/kidaa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
